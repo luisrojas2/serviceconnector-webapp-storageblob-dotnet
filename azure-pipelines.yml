@@ -9,7 +9,7 @@ variables:
   dotnetVersion: '9.x'
 
   # Completar posteriormente
-  azureSubscription: 'AguilaSoft'
+  azureSubscription: 'MIA_Connection'
   appName: 'miaazurestorage'
 
 steps:
